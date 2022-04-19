@@ -4,10 +4,15 @@ Embedded JavaScript templates<br/>
 [![Known Vulnerabilities](https://snyk.io/test/npm/ejs/badge.svg?style=flat)](https://snyk.io/test/npm/ejs)
 =============================
 
+This is a fork of `ejs@3.1.6` which contains the following fixes:
+- removed `jake` as main dependency and added to dev dependencies
+- updated `jake` and `eslint` versions to ^10.8.4 and ^8.13.0
+- added github actions build workflow which target node 16
+
 ## Installation
 
 ```bash
-$ npm install ejs
+$ npm install @nightwatch/ejs
 ```
 
 ## Features
