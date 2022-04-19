@@ -9,7 +9,7 @@
     "engine",
     "ejs"
   ],
-  "version": "3.3.0",
+  "version": "3.2.0",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "license": "Apache-2.0",
   "bin": {
